@@ -4,3 +4,22 @@ body {
     background-color: pink;
     color: lightgrey;
 }
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+  background-color: lightpink;
+  padding: 15px 20px;
+  border-radius: 8px;
+  box-shadow: plum;
+}
+
+section p {
+  line-height: 1.6;
+  text-align: justify;
+  font-size: 1.05em;
+  margin-bottom: 12px;
+}
