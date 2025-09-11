@@ -34,29 +34,21 @@ const perguntas = [
     },
     {
         enunciado:
-        "4. Em relação à ética na IA, qual tendência está ganhando mais atenção globalmente?",
+        "4. Qual o papel dos dados na IA?",
 
         alternativas:[
-            "Tornar todos os modelos de IA de código fechado obrigatoriamente",
-             "Desenvolvimento de regulamentações e IA responsável"
+            "Treinar e melhorar o modelo.",
+             "Ajustar apenas a interface."
         ]
     },
     {
         enunciado:
-        "5. Qual é uma tendência no uso de IA em ambientes corporativos?",
+        "5. Por que linguagem natural é difícil para IA",
 
         alternativas:[
-            "Automação inteligente de processos (como RH, jurídico, finanças)",
-             "Exclusivamente uso da IA em marketing e vendas"
+            "É ambígua e cheia de contexto.",
+             "É  só lógica gramatical, mas lenta.
         ]
     },
     {
-        enunciado:
-        "6. O que se espera sobre os modelos de linguagem no futuro próximo?",
-
-        alternativas:[
-            "Serão mais eficientes, personalizados e com menor consumo de energia",
-             "Serão sempre maiores, mais lentos e inacessíveis ao público geral"
-        ]
-    },
 ]
