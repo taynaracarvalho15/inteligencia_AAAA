@@ -9,7 +9,7 @@ const perguntas = [
         enunciado:
         "1. Qual a diferença entre IA fraca e IA forte?",
 
-        alternativas:[
+        alternativas: [
             "IA fraca faz tarefas específicas; IA forte tem inteligência geral.",
              "IA fraca usa redes neurais; e IA forte usa logica simbólica."
         ]
@@ -18,7 +18,7 @@ const perguntas = [
         enunciado:
         "2. O que é aprendizado supervisionado?",
 
-        alternativas:[
+        alternativas: [
             "Aprende com dados rotulados.",
              "Aprende sem saber os rótulos dos dados."
         ]
@@ -27,7 +27,7 @@ const perguntas = [
         enunciado:
         "3. O que são redes neurais artificiais?",
 
-        alternativas:[
+        alternativas: [
             "Modelos inspirados no cérebro que aprendem padrões.",
              "Conexões físicas que simulam neurônios."
         ]
@@ -36,7 +36,7 @@ const perguntas = [
         enunciado:
         "4. Qual o papel dos dados na IA?",
 
-        alternativas:[
+        alternativas: [
             "Treinar e melhorar o modelo.",
              "Ajustar apenas a interface."
         ]
@@ -45,7 +45,7 @@ const perguntas = [
         enunciado:
         "5. Por que linguagem natural é difícil para IA",
 
-        alternativas:[
+        alternativas: [
             "É ambígua e cheia de contexto.",
              "É  só lógica gramatical, mas lenta.
         ]
@@ -68,4 +68,4 @@ const perguntas = [
         }
      }
 
-    mostraPergunta();
+    
