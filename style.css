@@ -5,6 +5,13 @@ body {
     color: oldlace;
 }
 
+.jumbotron {
+  background-color: hotpink;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
 main {
   padding: 20px;
 }
