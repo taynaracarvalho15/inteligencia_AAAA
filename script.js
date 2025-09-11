@@ -50,5 +50,22 @@ const perguntas = [
              "É  só lógica gramatical, mas lenta.
         ]
     },
-    {
-]
+];
+
+    let atual = 0;
+    let perguntaAtual;
+    function mostraPergunta() {
+        perguntaAtual = perguntas[atual];
+        caixaPerguntas.textContent = perguntaAtual.enunciado;
+        mostraAlternativas();
+    }
+
+     function mostraAlternativas() {
+        for (const alternativa of perguntaAtual.alternativas) {
+            const botaoAlternativas = document.creatElement("button");
+            botaoAlternativas.textContent = alternativa;
+            caixaAlternativas.appendChild(botaoAlternativas);
+        }
+     }
+
+    mostraPergunta();
