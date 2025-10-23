@@ -6,21 +6,12 @@
     --cor-texto: #f8c8ee;
 }
 
-main {
-  padding: 20px;
-}
-
-section {
-  margin-bottom: 20px;
-  background-color: #fa94a3;
-  padding: 15px 20px;
-  border-radius: 8px;
-  box-shadow: #dda0dd;
-}
-
-section p {
-  line-height: 1.6;
-  text-align: justify;
-  font-size: 1.05em;
-  margin-bottom: 12px;
+body {
+    background-color: var(#ffc0cb);
+    --cor-texto: #f8c8ee;
+    color: var();
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
