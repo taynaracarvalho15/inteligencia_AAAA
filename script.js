@@ -47,7 +47,7 @@ const perguntas = [
 
         alternativas: [
             "É ambígua e cheia de contexto.",
-             "É  só lógica gramatical, mas lenta.
+             "É só lógica gramatical, mas lenta."
         ]
     },
 ];
