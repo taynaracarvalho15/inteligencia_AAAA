@@ -16,21 +16,13 @@ body {
     min-height: 100vh;
 }
 
-main {
-  padding: 20px;
-}
-
-section {
-  margin-bottom: 20px;
+.caixa-principal{
   background-color: #fa94a3;
-  padding: 15px 20px;
-  border-radius: 8px;
-  box-shadow: #dda0dd;
+  width: 90%;
+  text-align:center;
+  padding: 20%;
 }
 
-section p {
-  line-height: 1.6;
-  text-align: justify;
-  font-size: 1.05em;
-  margin-bottom: 12px;
+h1{
+  color: var(--cor-destaque);
 }
