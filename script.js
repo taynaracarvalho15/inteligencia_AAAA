@@ -71,7 +71,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "✅ Quiz finalizado!";
+    caixaPerguntas.textContent = "Quiz finalizado!";
     caixaAlternativas.textContent = "";
 }
 
